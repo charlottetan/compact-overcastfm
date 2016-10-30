@@ -1,0 +1,45 @@
+.fullart_container {
+  width: 40px !important;
+  display: inline-block !important;
+  margin: 0 0 0 25px !important;
+  height: 40px;
+}
+
+.fullart_container::before {
+  display: none !important;
+  padding:0 !important;
+}
+
+#playcontrols_container {
+  margin: 5px 0 !important;
+}
+
+.marginbottom1 {
+  margin-bottom: 0 !important;
+}
+
+.nav, .centertext.lighttext, .footer, .smallcaps.centertext {
+  display: none;
+}
+
+#playcontrols .ocbutton svg {
+  max-width: 50%;
+}
+
+#playcontrols_container:before {
+  padding-top: 6% !important;
+}
+
+#progressbar {
+  margin: 0 !important;
+}
+
+.fullart {
+  position: relative !important;
+}
+
+.art {
+  width: 40px !important;
+  height: 40px !important;
+  vertical-align: middle;
+}
