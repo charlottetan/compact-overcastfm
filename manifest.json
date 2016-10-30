@@ -2,9 +2,7 @@
   "manifest_version": 2,
 
   "name": "Compact Overcast",
-  "description": "Compacts the layout/controls on Overcast.fm,
-                  so that you can have it in a tiny window and still have access
-                  to all the information you need.",
+  "description": "Compacts the layout on Overcast.fm, so that you can have it in a tiny window and still have access to all the information you need.",
   "version": "1.0",
   "author": "Charlotte Tan",
 
