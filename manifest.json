@@ -6,6 +6,8 @@
                   so that you can have it in a tiny window and still have access
                   to all the information you need.",
   "version": "1.0",
+  "author": "Charlotte Tan",
+
   "browser_action": {
     "default_icon": "images/icon-96x96.png"
   },
